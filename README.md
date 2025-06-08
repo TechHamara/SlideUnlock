@@ -16,6 +16,8 @@ This component allows users to implement a slide-to-unlock feature in their App 
 
 ## Demo
 
+![blocks](https://github.com/user-attachments/assets/d058403b-7491-4a3e-a9a9-85e30a2f7e88)
+
 ## Blocks
 
 ![SlideEnd_Event](https://github.com/user-attachments/assets/e802e678-ace2-41f7-91b3-66d352676c98)
