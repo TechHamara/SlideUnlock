@@ -13,7 +13,7 @@ This component allows users to implement a slide-to-unlock feature in their App 
 📅 **Updated On:** [date=2025-06-05 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
 **Library UsedOn** [HSV-Alpha Color Picker for Android](https://github.com/martin-stone/hsv-alpha-color-picker-android) Thanks martin-stone for this awesome Library.<br>
-**Find More Extensions On:**[BuyMeaCoffeePages](https://coff.ee/techhamara)
+**Find More Extensions On:**[BuyMeaCoffeePages](https://buymeacoffee.com/techhamara/extras)
 
 <br>
 
