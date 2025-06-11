@@ -10,8 +10,78 @@ This component allows users to implement a slide-to-unlock feature in their App 
 💾 **Size:** 22.08 KB
 ⚙️ **Version:** 1.0
 📱 **Minimum API Level:** 21
-📅 **Updated On:** [date=2025-06-10 timezone="Asia/Calcutta"]
+📅 **Updated On:** [date=2025-06-05 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+
+![SlideEnd_Event](https://github.com/user-attachments/assets/a54beb87-d89c-4a37-b1e3-9dff5ada73c7)
+![Unlocked_Event](https://github.com/user-attachments/assets/31d5961d-db32-45de-8b85-fbdb087a19f7)
+![SlideStart_Event](https://github.com/user-attachments/assets/f4ef6da5-2c2d-4571-93bc-111910777315)
+![SlideProgress_Event](https://github.com/user-attachments/assets/13e6cc62-1592-4d81-a921-707481d9343b)
+
+
+![ClearSlideGradientBackground_Method](https://github.com/user-attachments/assets/7701574d-031b-4214-86ad-72bcd5283fb6)
+![ClearGradientBackground_Method](https://github.com/user-attachments/assets/8f1d5193-061a-4ae2-a216-e9fe53b378cb)
+![SlideGradientBackground4_Method](https://github.com/user-attachments/assets/7461b3b6-b7ba-442e-88b8-74dedff3337a)
+![SlideGradientBackground3_Method](https://github.com/user-attachments/assets/f6f6ca8d-35e7-47c5-a2c3-64a9012cfccd)
+![SlideGradientBackground2_Method](https://github.com/user-attachments/assets/8fb5f77d-54ca-49c3-9d8c-fdc59b60a7b2)
+![ShowEmoji_Method](https://github.com/user-attachments/assets/b364b905-4da1-45bb-ae40-90f7e24d4063)
+![ShowDefaultButton_Method](https://github.com/user-attachments/assets/aa271a34-163a-4d9e-90a9-81d9a66e3593)
+![ShowArrow_Method](https://github.com/user-attachments/assets/2c17cc16-9222-4d9a-8b09-995744334fb4)
+![HideArrow_Method](https://github.com/user-attachments/assets/c9384495-c31c-41c1-9c40-1d97418bbda6)
+![GradientBackground4_Method](https://github.com/user-attachments/assets/f3a1b9c1-b9a9-45b2-b6cc-bafa0ba3a86a)
+![GradientBackground3_Method](https://github.com/user-attachments/assets/00a6c1d3-cf04-40c4-b5c5-ebd8deb157e6)
+![GradientBackground2_Method](https://github.com/user-attachments/assets/127c17ad-0296-465a-8da6-9798d8eff96d)
+![Create_Method](https://github.com/user-attachments/assets/47a51039-3288-4a27-8224-5e8cda3b7a79)
+
+-----
+
+![SlideBackgroundColor_Set_Property](https://github.com/user-attachments/assets/7761008c-b484-4a7c-a41c-9bba17298221)
+![SlideBackgroundColor_Get_Property](https://github.com/user-attachments/assets/51a6f723-b395-4b8d-b6d7-9bad912474a1)
+![HeightPercent_Set_Property](https://github.com/user-attachments/assets/27e92c6c-db36-4778-a304-51506e9447ab)
+![HeightPercent_Get_Property](https://github.com/user-attachments/assets/3c249403-4bdf-4d5f-83d3-f01f8a4fc23c)
+![FixedWidth_Set_Property](https://github.com/user-attachments/assets/8fffe9f2-c853-4401-890b-9aac04ae3c39)
+![FixedWidth_Get_Property](https://github.com/user-attachments/assets/2f00de41-23b5-43fd-9627-e4d938d8a749)
+![FixedHeight_Set_Property](https://github.com/user-attachments/assets/a7ae9912-b2fe-472e-8028-0ab6f80cf9b4)
+![FixedHeight_Get_Property](https://github.com/user-attachments/assets/dfd25b09-1ea9-4055-9761-ba2645df9cf1)
+![EmojiTextSize_Set_Property](https://github.com/user-attachments/assets/bbb4fc5c-5d34-499f-9368-4d11c20a59ab)
+![EmojiTextSize_Get_Property](https://github.com/user-attachments/assets/1b168bf2-c82a-40d4-81af-235a5114ce2b)
+![EmojiText_Set_Property](https://github.com/user-attachments/assets/b7d90136-521d-4cdc-8a71-2c2fa6974bce)
+![EmojiText_Get_Property](https://github.com/user-attachments/assets/96e82a57-2d1c-483c-b27a-ce21b16b5c69)
+![EmojiHasBackground_Set_Property](https://github.com/user-attachments/assets/7e3eb5bf-bd1e-4807-9629-f0b96743d93b)
+![EmojiHasBackground_Get_Property](https://github.com/user-attachments/assets/25d3b7cc-28cd-4378-b54c-76393663fe4a)
+![EmojiBackgroundColor_Set_Property](https://github.com/user-attachments/assets/7ec5f0cf-f087-404c-8a0d-aa9557680d1a)
+![EmojiBackgroundColor_Get_Property](https://github.com/user-attachments/assets/61b4f942-cc28-4f72-9868-2a691f0e8bfd)
+![ButtonSize_Set_Property](https://github.com/user-attachments/assets/8ba52d6e-7f03-425e-824c-8307b56de23d)
+![ButtonSize_Get_Property](https://github.com/user-attachments/assets/d7c464f9-efc3-43f0-b026-833376700320)
+![ButtonShape_Set_Property](https://github.com/user-attachments/assets/1f064bb2-7f3d-4e20-8fbd-84d7e19242d7)
+![ButtonShape_Get_Property](https://github.com/user-attachments/assets/d77b9ac5-7890-4c7d-abd5-5e4b6981252f)
+![ButtonColor_Set_Property](https://github.com/user-attachments/assets/82573fb4-9896-423d-b189-1aeb2d97ae87)
+![ButtonColor_Get_Property](https://github.com/user-attachments/assets/c2cf7a9c-b642-45ed-bc8e-28e608895985)
+![ButtonAutoRotate_Set_Property](https://github.com/user-attachments/assets/9b2d0828-92a0-40d5-85bb-fae7e725ab5d)
+![ButtonAutoRotate_Get_Property](https://github.com/user-attachments/assets/bd9f200e-fe46-440a-b45b-4ee546dd301a)
+![BackgroundColor_Set_Property](https://github.com/user-attachments/assets/22c68a8b-33d7-40f3-ac57-021d91edf08b)
+![BackgroundColor_Get_Property](https://github.com/user-attachments/assets/bce43241-0bf0-40da-90d6-09a8c258ad86)
+![BackAnimationEnabled_Set_Property](https://github.com/user-attachments/assets/53051bd9-fda0-43ff-9113-dc5d5771534e)
+![BackAnimationEnabled_Get_Property](https://github.com/user-attachments/assets/3e89b732-b264-4337-916a-99b8a1aa0c56)
+![BackAnimationDuration_Set_Property](https://github.com/user-attachments/assets/d28c801d-c9a4-4d1d-9b82-bc57f649d72e)
+![BackAnimationDuration_Get_Property](https://github.com/user-attachments/assets/81c6e2d4-77be-4340-b155-e4092ad232ae)
+![ArrowVisible_Set_Property](https://github.com/user-attachments/assets/d0353678-ec59-4f7d-b40c-fce71d729ecf)
+![ArrowVisible_Get_Property](https://github.com/user-attachments/assets/343e27e2-5b91-485b-861a-4ae209c89c3f)
+![ArrowSize_Set_Property](https://github.com/user-attachments/assets/0f9bb603-339f-4033-a5d4-0e04a6e77c91)
+![ArrowSize_Get_Property](https://github.com/user-attachments/assets/256b428a-05ce-4e95-b4d8-ea3230ff9b18)
+![WidthPercent_Set_Property](https://github.com/user-attachments/assets/06cd3d45-06c8-4cc5-b06b-659e9fed16dd)
+![WidthPercent_Get_Property](https://github.com/user-attachments/assets/c9638048-5f12-4efd-aff9-91618882c30a)
+![VibrationEnabled_Set_Property](https://github.com/user-attachments/assets/f82e4525-79c0-4bcf-a098-e0a490d17c92)
+![VibrationEnabled_Get_Property](https://github.com/user-attachments/assets/4bd895c7-dd7c-4ea6-80f0-da8d621fbbd1)
+![TipsColor_Set_Property](https://github.com/user-attachments/assets/4fa124ad-4445-4c58-83db-e847962fda81)
+![TipsColor_Get_Property](https://github.com/user-attachments/assets/2db01bf9-e894-4b10-a015-cd5dca2815dd)
+![Tips_Set_Property](https://github.com/user-attachments/assets/ea6f524a-9ac8-40da-ba36-d4d61e600836)
+![Tips_Get_Property](https://github.com/user-attachments/assets/f2cb1e9d-3334-4974-888e-39c0bf62b021)
+![StrokeColor_Set_Property](https://github.com/user-attachments/assets/40a98282-599e-4e4c-952b-3784954ce6fc)
+![StrokeColor_Get_Property](https://github.com/user-attachments/assets/48cf29f5-4207-49b6-bff0-053a990b9718)
+![SoundEnabled_Set_Property](https://github.com/user-attachments/assets/30997e90-8541-439b-8db8-49991161a059)
+![SoundEnabled_Get_Property](https://github.com/user-attachments/assets/a4c550fd-1586-48d7-a582-9223d9bd279e)
+
 
 ## <kbd>Events:</kbd>
 **SlideUnlock** has total 4 events.
