@@ -17,11 +17,23 @@ This component allows users to implement a slide-to-unlock feature in their App 
 
 <br>
 
-## Blocks
+## Demo
 
 ![blocks](https://github.com/user-attachments/assets/5ac00367-0736-4016-bb7e-4db55db8a84f)
 
------
+![0fe881cb-af4d-4280-a41a-b75d6b792ebf.gif](https://github.com/user-attachments/assets/5152c5ae-f2bc-44c1-80e4-33dd0ff5bfaa)
+
+![2f153c9a-7b1d-4d2e-a311-f71cd5a84ec9.gif](https://github.com/user-attachments/assets/23e9004b-8f00-41e8-9cba-ffa978a641c1)
+
+![2661ecc6-c88f-4f4f-b1ea-0e8ec0a593e5.gif](https://github.com/user-attachments/assets/8e776a2f-eec3-419c-9ac9-813afb25c22e)
+
+![Screenshot_2025-06-11-19-19-35-082_appinventor.ai_Techhamara91.slide_unlock.jpg](https://github.com/user-attachments/assets/c4e85742-9e2b-4745-a780-d69bec438ec4)
+
+![Screenshot_2025-06-11-19-20-55-345_appinventor.ai_Techhamara91.slide_unlock.jpg](https://github.com/user-attachments/assets/b20e74d7-325e-4c51-b836-7c76c5d089ad)
+
+![Screenshot_2025-06-11-19-21-36-582_appinventor.ai_Techhamara91.slide_unlock.jpg](https://github.com/user-attachments/assets/cf443016-6689-4594-bd89-641e3f38342f)
+
+## Blocks 
 
 ![SlideEnd_Event](https://github.com/user-attachments/assets/a54beb87-d89c-4a37-b1e3-9dff5ada73c7)
 ![Unlocked_Event](https://github.com/user-attachments/assets/31d5961d-db32-45de-8b85-fbdb087a19f7)
