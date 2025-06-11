@@ -6,18 +6,28 @@ This component allows users to implement a slide-to-unlock feature in their App 
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.slideunlock
-💾 **Size:** 22.08 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 21
-📅 **Updated On:** [date=2025-06-05 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+📦 **Package:** io.th.slideunlock<br>
+💾 **Size:** 22.08 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 21<br>
+📅 **Updated On:** [date=2025-06-05 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+**Library UsedOn** [HSV-Alpha Color Picker for Android](https://github.com/martin-stone/hsv-alpha-color-picker-android) Thanks martin-stone for this awesome Library.
+
+<br>
+
+## Blocks
+
+![blocks](https://github.com/user-attachments/assets/5ac00367-0736-4016-bb7e-4db55db8a84f)
+
+-----
 
 ![SlideEnd_Event](https://github.com/user-attachments/assets/a54beb87-d89c-4a37-b1e3-9dff5ada73c7)
 ![Unlocked_Event](https://github.com/user-attachments/assets/31d5961d-db32-45de-8b85-fbdb087a19f7)
 ![SlideStart_Event](https://github.com/user-attachments/assets/f4ef6da5-2c2d-4571-93bc-111910777315)
 ![SlideProgress_Event](https://github.com/user-attachments/assets/13e6cc62-1592-4d81-a921-707481d9343b)
 
+-----
 
 ![ClearSlideGradientBackground_Method](https://github.com/user-attachments/assets/7701574d-031b-4214-86ad-72bcd5283fb6)
 ![ClearGradientBackground_Method](https://github.com/user-attachments/assets/8f1d5193-061a-4ae2-a216-e9fe53b378cb)
