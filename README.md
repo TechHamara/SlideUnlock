@@ -16,6 +16,7 @@ This component allows users to implement a slide-to-unlock feature in their App 
 ⬇️ **Buy Aix** Price: 2💲 [here](https://buymeacoffee.com/techhamara/e/419223)<br>
 💲 **UPI** 170Rs.<br>
 🪧 **Find More Extensions On:**[BuyMeaCoffeePages](https://buymeacoffee.com/techhamara/extras)
+🪧 **Get Free Version** [here](https://community.appinventor.mit.edu/t/free-slidetoact-sliding-actions-allowing-users-to-easily-interact/150130?u=techhamara)
 
 <br>
 
@@ -458,3 +459,8 @@ Sets the emoji background color
 
 * Return type: `number`
 
+## Thank 
+
+TechHamara 
+
+> Feel free to contact us any quarry or suggestions.
